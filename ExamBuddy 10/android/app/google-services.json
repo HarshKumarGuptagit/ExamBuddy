@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481125417979",
+    "project_id": "exambuddy-10",
+    "storage_bucket": "exambuddy-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481125417979:android:3bfcbb8fc240d1d68c415e",
+        "android_client_info": {
+          "package_name": "com.exambuddy.exambuddy10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQRE9xxCh3n_1UElEBrrJytmJLzRPbtww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
